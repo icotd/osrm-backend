@@ -139,20 +139,20 @@ function setup()
 
     speeds = Sequence {
       highway = {
-    motorway        = 60,
-    motorway_link   = 50,
-    trunk           = 50,
-    trunk_link      = 40,
-    primary         = 40,
-    primary_link    = 35,
-    secondary       = 30,
-    secondary_link  = 25,
-    tertiary        = 25,
-    tertiary_link   = 20,
-    unclassified    = 20,
-    residential     = 20,
-    living_street   = 10,
-    service         = 10
+        motorway        = 60,
+        motorway_link   = 50,
+        trunk           = 50,
+        trunk_link      = 40,
+        primary         = 40,
+        primary_link    = 35,
+        secondary       = 30,
+        secondary_link  = 25,
+        tertiary        = 25,
+        tertiary_link   = 20,
+        unclassified    = 20,
+        residential     = 20,
+        living_street   = 10,
+        service         = 10
       }
     },
 
